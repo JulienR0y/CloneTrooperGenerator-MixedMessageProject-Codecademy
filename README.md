@@ -10,6 +10,7 @@
 ## General info
 
 This project is a Clone Trooper ID generator.
+
 Description : This project aim at creating a Clone Trooper ID generator, it will :
 - Give you a ID Number,
 - Rank,
