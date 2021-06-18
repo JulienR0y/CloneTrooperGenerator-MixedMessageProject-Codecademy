@@ -15,8 +15,8 @@ Description : This project aim at creating a Clone Trooper ID generator, it will
 - Give you a ID Number,
 - Rank,
 - Division,
-- The last Jedi you fought with,
-- The Last planet you fought on,
+- The last Jedi you fought with,(in progress)
+- The Last planet you fought on,(in progress)
 
 ## Technologies
 
